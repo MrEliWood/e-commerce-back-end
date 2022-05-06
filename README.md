@@ -4,7 +4,7 @@
 
 This ecommerce application allows the user to easily manage their inventory with a mysql database.
 
-[VIDEO WALKTHROUGH](https://youtu.be/YZdMO9BuHjc)
+[VIDEO WALKTHROUGH](https://youtu.be/2jWUUJjQyqs)
 
 ![Screenshot of the application in insomnia](./assets/images/Screen%20Shot%202022-05-05%20at%209.41.40%20PM.png)
 
